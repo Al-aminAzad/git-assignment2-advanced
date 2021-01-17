@@ -1,1 +1,3 @@
-I am merge file from master branch
+
+I am merge file from branch 4 . I am waiting to see conflict"
+>>>>>>> branch4
