@@ -1,1 +1,2 @@
-Hello I am master branch
+Hello I am master branch.
+Let's learn about stash
