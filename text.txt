@@ -1,2 +1,3 @@
 Hello I am master branch.
-Let's learn about stash
+Let's learn about stash.
+Now i got stash
